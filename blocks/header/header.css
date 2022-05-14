@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    width: 92.5%;
+    max-width: 1184px;
+    /* min-width: 288px; */
+    background-color: #2A2C2F;
+    font-family: 'Inter';
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+  }
+
+   @media (max-width: 1023px) { 
+    .header {
+      /* display: flex; */
+      /* min-width: 720px; */
+      /* max-width: 928px; */
+      /* min-height: 52px; */
+      /* background-color: #2A2C2F; */
+      /* font-family: 'Inter'; */
+      /* justify-content: space-between; */
+      /* align-items: center; */
+      /* border: 1px solid green; */
+      
+    }
+   } 
+    
+  

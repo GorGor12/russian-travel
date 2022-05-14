@@ -1,0 +1,11 @@
+  .place {
+    border: 1px solid red;
+    display: flex;
+    width: 928px;
+  }
+
+  @media (max-width: 1023px) {
+    .place {
+      width: 720px;
+    }
+  }

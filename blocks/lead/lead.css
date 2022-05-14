@@ -1,0 +1,28 @@
+.lead {
+  border: 1px solid red;
+  color: #ffffff;
+  background-color: #2A2C2F;
+  width: 100%;
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 1023px) {
+  .lead {
+    border: 1px solid green;
+    width: 100%;
+    color: #ffffff;
+    background-color: #2A2C2F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+}

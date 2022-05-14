@@ -1,0 +1,64 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__text/lead__text.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__column1/__column1.css);
+@import url(../blocks/place/__column2/__column2.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/kosa/kosa.css);
+@import url(../blocks/altay/altay.css);
+@import url(../blocks/kolskiy/kolskiy.css);
+@import url(../blocks/baikal/baikal.css);
+@import url(../blocks/kareliya/kareliya.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph2/place__paragraph2.css);
+@import url(../blocks/place/__link/_url/place__link_url.css);
+@import url(../blocks/kosa/__url/kosa__url.css);
+@import url(../blocks/kolskiy/__url/kolskiy__url.css);
+@import url(../blocks/altay/__url/altay__url.css);
+@import url(../blocks/baikal/__url/baikal__url.css);
+@import url(../blocks/kareliya/__url/kareliya__url.css);
+@import url(../blocks/place/__link/_href/place__link_href.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__autor/footer__autor.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__column2/_kolskiy/place__column2_kolskiy.css);
+@import url(../blocks/place/__column2/_baikal/place__column2_baikal.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
+
+
+@font-face {
+  src: url('../fonts/Inter-Regular.woff') format('woff');
+  src: url('../fonts/Inter-Regular.woff2') format('woff2');
+  font-family: Inter;
+}
+
+@font-face {
+  src: url('../fonts/Inter-Black.woff') format('woff');
+  src: url('../fonts/Inter-Black.woff2') format('woff2');
+  font-family: Iblack;
+}
+
+
+
+
+

@@ -1,0 +1,5 @@
+.place__column1 {
+    display: flex;
+    flex-direction: column;
+    padding: 0 32px 0 0;
+  }

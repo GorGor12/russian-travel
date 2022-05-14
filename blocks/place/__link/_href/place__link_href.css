@@ -1,0 +1,7 @@
+.place__link_href {
+    font-size: 18px;
+    line-height: 122%;
+    color: #FFFFFF;
+    text-underline-offset: 3px;
+    padding: 0 0 48px 0;
+  }
