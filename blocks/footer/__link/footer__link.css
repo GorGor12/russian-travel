@@ -3,3 +3,11 @@
     color: #ffffff;
     text-decoration: none;
   }
+
+  @media (max-width: 767px) {
+    .footer__link {
+      padding: 0 0 32px 0;
+      display: flex;
+
+    }
+  }

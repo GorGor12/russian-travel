@@ -7,3 +7,12 @@
   height: 18px;
   border: 1px solid red;
 }
+
+@media (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    align-self: start;
+    width: 186px;
+    height: 310px;
+  }
+}

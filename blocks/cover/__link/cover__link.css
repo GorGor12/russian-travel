@@ -2,7 +2,7 @@
     text-decoration: none;
     position: relative;
     width: 100%;
-    min-height: 640px;
+    height: inherit;
     border: 1px solid red;
     background-image: url(../../../images/background.jpg);
     background-size: cover;

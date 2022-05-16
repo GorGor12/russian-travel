@@ -8,3 +8,9 @@
       padding: 34px 0 12px 0;
     }
   }
+
+  @media (max-width: 767px) {
+    .kosa__url {
+      padding: 0 0 12px 0;
+    }
+  }

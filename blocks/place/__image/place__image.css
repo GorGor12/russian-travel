@@ -3,3 +3,17 @@
         width: 340px;
     }
 }
+
+@media (max-width: 767px) {
+    .place__image {
+      width: 320px;
+      padding: 0 0 32px 0;
+    }
+  }
+
+  @media (max-width: 348px) {
+    .place__image {
+      position: relative;
+      transform: translate(-12px, 0px);
+    }
+  }

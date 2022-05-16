@@ -5,3 +5,9 @@
     text-underline-offset: 3px;
     padding: 0 0 48px 0;
   }
+
+  @media (max-width: 767px) {
+    .place__link_href {
+      padding: 0 0 32px 0;
+    }
+  }

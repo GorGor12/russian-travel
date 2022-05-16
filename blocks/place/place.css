@@ -1,7 +1,16 @@
   .place {
+    width: 100%;
+    max-width: 984px;
     border: 1px solid red;
     display: flex;
-    width: 928px;
+    flex-direction: column;
+  }
+
+  @media (max-width: 1279px) {
+    .place {
+      border: 1px solid red;
+      display: flex;
+    }
   }
 
   @media (max-width: 1023px) {
@@ -9,3 +18,17 @@
       width: 720px;
     }
   }
+
+  @media (max-width: 767px) {
+    .place {
+      /* min-width: 320px; */
+      width: 100%;
+    }
+  }
+
+  
+@media (max-width: 424px) {
+  .place__column1 {
+    width: 288px;
+  }
+}

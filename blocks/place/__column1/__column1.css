@@ -1,5 +1,11 @@
 .place__column1 {
-    display: flex;
+  display: flex;
+  padding: 0 32px 0 0;
+}
+
+@media (max-width: 767px) {
+  .place__column1 {
     flex-direction: column;
-    padding: 0 32px 0 0;
   }
+}
+

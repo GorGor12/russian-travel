@@ -12,3 +12,11 @@
       width: 330px;
     }
   }
+
+  @media (max-width: 767px) {
+    .place__title {
+      font-size: 32px;
+      width: 288px;
+      padding: 0 0 32px 0;
+    }
+  }
