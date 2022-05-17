@@ -1,9 +1,9 @@
 .lead__title {
     font-size: 96px;
     text-align: center;
-    font-family: Iblack;
+    font-family: Iblack, Arial, sans-serif;
     width: 720px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     padding-right: auto;
     padding-left: auto;

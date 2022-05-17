@@ -1,9 +1,9 @@
-.place__column2 {
+.place__rowbottom {
     display: flex;
   }
 
   @media (max-width: 767px) {
-    .place__column2 {
+    .place__rowbottom {
       flex-direction: column;
     }
   }

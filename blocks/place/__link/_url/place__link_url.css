@@ -1,7 +1,13 @@
 .place__link_url {
-    font-size: 12px;
-    line-height: 170%;
-    letter-spacing: 2px;
-    color: #AAAAAA;
-    margin: 0;
+  font-size: 12px;
+  line-height: 170%;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .place__link_url {
+    padding: 0 0 12px 0;
   }
+}

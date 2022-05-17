@@ -1,7 +1,7 @@
 .intro {
     display: flex;
     width: 690px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex-direction: column;
     align-self: flex-start;
     color: #ffffff;
@@ -14,7 +14,7 @@
       display: flex;
       width: 720px;
       min-height: 429px;
-      border: 1px solid red;
+      /* border: 1px solid red; */
       flex-direction: column;
       align-self: flex-start;
       color: #ffffff;
@@ -27,7 +27,7 @@
     .intro {
       display: flex;
       width: 92.5%;
-      border: 1px solid red;
+      /* border: 1px solid red; */
       flex-direction: column;
       align-self: flex-start;
       color: #ffffff;
