@@ -24,6 +24,7 @@
     /* border: solid 1px green; */
     padding: 0 0 87px 0;
   }
+}
 
   @media (max-width: 767px) {
     .photo-grid {
@@ -34,4 +35,3 @@
   }
 
   
-}
