@@ -2,4 +2,4 @@
 
 Это сайт посвященный путешествиям по России.
 Сайт однастраничный. Имеет ссылки на другие сайты. Сайт сделан по технологии отзывчевой верстки. Макет был взял из Figma.
-https://gorgor12.github.io/russian-travel/
+https://gorgor12.github.io/russian-travel/index.html
