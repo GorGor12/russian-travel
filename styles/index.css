@@ -26,13 +26,13 @@
 @import url(../blocks/kareliya/kareliya.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__paragraph2/place__paragraph2.css);
-@import url(../blocks/place/__link/_url/place__link_url.css);
+@import url(../blocks/place/__link/place__link-url.css);
 @import url(../blocks/kosa/__url/kosa__url.css);
 @import url(../blocks/kolskiy/__url/kolskiy__url.css);
 @import url(../blocks/altay/__url/altay__url.css);
 @import url(../blocks/baikal/__url/baikal__url.css);
 @import url(../blocks/kareliya/__url/kareliya__url.css);
-@import url(../blocks/place/__link/_href/place__link_href.css);
+@import url(../blocks/place/__link/place__link-href.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);

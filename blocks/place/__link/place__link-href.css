@@ -1,4 +1,4 @@
-.place__link_href {
+.place__link-href {
     font-size: 18px;
     line-height: 122%;
     color: #FFFFFF;
@@ -6,12 +6,12 @@
     padding: 0 0 48px 0;
   }
 
-  .place__link_href:hover {
+  .place__link-href:hover {
     opacity: 80%;
   }
 
   @media (max-width: 767px) {
-    .place__link_href {
+    .place__link-href {
       padding: 0 0 32px 0;
     }
   }
