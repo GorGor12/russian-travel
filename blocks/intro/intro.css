@@ -13,7 +13,7 @@
     .intro {
       display: flex;
       width: 720px;
-      min-height: 429px;
+      /* min-height: 429px; */
       /* border: 1px solid red; */
       flex-direction: column;
       align-self: flex-start;

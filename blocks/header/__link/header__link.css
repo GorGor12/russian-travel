@@ -7,10 +7,12 @@
   color: #ffffff;
 }
 
+.header__link:hover {
+  opacity: .8;
+}
+
 .header__link:nth-child(1) {
   margin-right: 18px;
-  text-decoration: underline;
-  text-underline-offset: 3px;
 }
 
 @media (max-width: 767px) {

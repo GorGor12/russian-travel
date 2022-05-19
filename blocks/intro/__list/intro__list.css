@@ -1,7 +1,26 @@
 .intro__list {
+  font-family: Bold, Arial, sans-serif;
     font-size: 12px;
     line-height: 150%;
     list-style: none;
     padding: 0;
-    margin: 0 0 99px 0;
+    margin: 0 0 92px 0;
   }
+
+  @media (max-width: 1279px) {
+    .intro__list {
+      margin: 0 0 104px 0;
+    }
+  } 
+
+  @media (max-width: 1023px) {
+    .intro__list {
+      margin: 0 0 88px 0;
+    }
+  } 
+
+  @media (max-width: 767px) {
+    .intro__list {
+      margin: 0 0 64px 0;
+    }
+  } 

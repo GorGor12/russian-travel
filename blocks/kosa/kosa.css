@@ -1,3 +1,17 @@
-.kosa {
-    padding: 0 0 89px 0;
+  @media (max-width: 1279px) {
+    .kosa {
+      padding: 0 0 89px 0;
+    }
+  }
+
+  @media (max-width: 1023px) {
+    .kosa {
+      padding: 0 0 73px 0;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .kosa {
+      padding: 0 0 50px 0;
+    }
   }

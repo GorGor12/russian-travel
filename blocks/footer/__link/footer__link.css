@@ -4,6 +4,10 @@
     text-decoration: none;
   }
 
+  .footer__link:hover {
+    opacity: 0.8;
+  }
+
   @media (max-width: 767px) {
     .footer__link {
       padding: 0 0 32px 0;

@@ -1,6 +1,6 @@
 .place__rowtop {
   display: flex;
-  padding: 0 32px 0 0;
+  padding: 0;
 }
 
 @media (max-width: 767px) {

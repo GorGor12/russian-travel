@@ -1,5 +1,6 @@
 .place__link-url {
   font-size: 12px;
+  text-transform: uppercase;
   line-height: 170%;
   letter-spacing: 2px;
   color: #AAAAAA;
