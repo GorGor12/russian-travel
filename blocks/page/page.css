@@ -1,6 +1,7 @@
 .page {
   max-width: 1280px;
   min-width: 320px;
+  overflow-x: hidden;
   box-sizing: border-box;
   font-family: Inter, Arial, sans-serif;
   display: flex;
@@ -14,6 +15,5 @@
   /* margin: auto; */
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  border: 1px solid red;
 }
 
