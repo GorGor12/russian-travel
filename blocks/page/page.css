@@ -14,5 +14,6 @@
   /* margin: auto; */
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  border: 1px solid red;
 }
 

@@ -1,12 +1,12 @@
 @media (max-width: 1279px) {
   .kolskiy {
-    padding: 0 0 71px 0;
+    padding: 0 48px 71px 48px;
   }
 }
 
 @media (max-width: 1023px) {
   .kolskiy {
-    padding: 0 0 73px 0;
+    padding: 0 24px 73px 24px;
   }
 }
 
