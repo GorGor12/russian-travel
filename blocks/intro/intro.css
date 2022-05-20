@@ -6,7 +6,7 @@
     align-self: flex-start;
     color: #ffffff;
     margin: 0;
-    padding: 0;
+    padding: 0 148px 0 148px;
   }
 
   @media (max-width: 1279px) {
@@ -26,6 +26,7 @@
       color: #ffffff;
       margin: 0;
       padding: 0 24px 0 24px;
+      box-sizing: border-box;
     }
   }
 

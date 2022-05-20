@@ -26,9 +26,3 @@
     }
   }
 
-  @media (max-width: 348px) {
-    .place__image {
-      position: relative;
-      transform: translate(-12px, 0px);
-    }
-  }

@@ -3,7 +3,7 @@
     line-height: 122%;
     color: #FFFFFF;
     text-underline-offset: 3px;
-    padding: 0 0 48px 0;
+    margin: 0 0 48px 0;
   }
 
   .place__link-href:hover {
@@ -12,6 +12,6 @@
 
   @media (max-width: 767px) {
     .place__link-href {
-      padding: 0 0 32px 0;
+      margin: 0 0 32px 0;
     }
   }

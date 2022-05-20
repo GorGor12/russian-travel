@@ -18,12 +18,12 @@
 
   @media (max-width: 1023px) {
     .lead__text {
-      margin: 0 0 88px 0;
+      margin: 0 0 88px 24px;
     }
   }
 
   @media (max-width: 767px) {
     .lead__text {
-      margin: 0 0 64px 0;
+      margin: 0 0 64px 16px;
     }
   }
