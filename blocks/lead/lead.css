@@ -3,14 +3,14 @@
   color: #ffffff;
   background-color: #2A2C2F;
   width: 100%;
-  max-width: 928px;
+  max-width: 984px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin: 0;
   padding: 0
-  box-sizing: border-box;;
+  box-sizing: border-box;
 }
 
 @media (max-width: 1023px) {
@@ -25,5 +25,7 @@
     justify-content: center;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+  }
   }
 }

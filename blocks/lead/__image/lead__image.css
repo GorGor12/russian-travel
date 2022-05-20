@@ -16,6 +16,8 @@
   .lead__image {
     /* width: 768px; */
     min-width: 320px;
+    box-sizing: border-box;
+  }
   }
 }
 

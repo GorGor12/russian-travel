@@ -5,14 +5,15 @@
   margin: 0;
   padding: 0;
   width: 100%;
-  max-width: 984px;
+  /* max-width: 984px; */
   box-sizing: border-box;
 }
 
 @media (max-width: 1279px) {
   .main {
-    max-width: 1050px;
+    /* max-width: 1050px; */
     width: 100%;
+    box-sizing: border-box;
   }
 }
 
@@ -26,12 +27,13 @@
     padding: 0;
     width: 100%;
     /* border: solid olive 2px; */
+    box-sizing: border-box;
   }
 }
 
 @media (max-width: 767px) {
   .main {
     width: 100%;
-
+    box-sizing: border-box;
   }
 }
