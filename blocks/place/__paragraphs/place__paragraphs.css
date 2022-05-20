@@ -1,6 +1,7 @@
 .place__paragraphs {
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 @media (max-width: 1023px) {
