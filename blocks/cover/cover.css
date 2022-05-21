@@ -1,6 +1,6 @@
 .cover {
   width: 100%;
-  min-width: 1184px;
+  max-width: 1184px;
   /* height: 740px; */
   padding: 0 0 104px 0;
   margin: 0;
